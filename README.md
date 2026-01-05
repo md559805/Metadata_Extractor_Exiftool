@@ -54,3 +54,9 @@ Metadata saved to metadata_output.txt
 •  Ensure ExifTool is properly installed and executable from the command line.
 •  The program assumes GPS coordinates are in standard DMS format with cardinal directions (N/S/E/W).
 •  No GPS data results in a notification message instead of a maps link.
+
+
+***Tip***
+
+=> After you downloaded the `exiftool.exe` should add it to the output folder after you run the code and `.exe` file created in the output folder.
+=> And don't forget to change name of `exiftool(-k).exe` to the `exiftool.exe` after to added to the output folder.  
