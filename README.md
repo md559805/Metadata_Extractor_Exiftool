@@ -35,8 +35,7 @@ Enter the full path to the file when prompted (e.g., `/path/to/image.jpg` or `C:
 
 ***Example Output***
 
-```md
-###Output
+```c++
 >Enter full file path:
 > /path/to/photo.jpg
 >{ExifTool output...}
