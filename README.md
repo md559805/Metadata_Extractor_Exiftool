@@ -35,14 +35,17 @@ Enter the full path to the file when prompted (e.g., `/path/to/image.jpg` or `C:
 
 ***Example Output***
 
-```bash
->Enter full file path:
+```md
+Enter full file path:
 > /path/to/photo.jpg
->{ExifTool output...}
->GPS Latitude: 37 deg 46' 26.00" N
->GPS Longitude: 122 deg 25' 5.00" W
->Google Maps link: https://www.google.com/maps?q=37.773889,-122.418056
->Metadata saved to metadata_output.txt
+
+[ExifTool output...]
+GPS Latitude: 37 deg 46' 26.00" N
+GPS Longitude: 122 deg 25' 5.00" W
+
+Google Maps link: https://www.google.com/maps?q=37.773889,-122.418056
+
+Metadata saved to metadata_output.txt
 ```
 
 
